@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AQ task": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Program Files\\Notepad++\\notepad++.exe \"                                                                                   \"10\"                        "
+    }
+  }
+}

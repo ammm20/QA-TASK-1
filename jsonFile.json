@@ -1,0 +1,212 @@
+[
+  {
+    "Date": "2022-06-05T13:34:47.7467505+02:00",
+    "CPUUsagePercentage": 53.000603,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:34:53.0699719+02:00",
+    "CPUUsagePercentage": 48.404312,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:35:03.0612081+02:00",
+    "CPUUsagePercentage": 51.648987,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:35:13.0693446+02:00",
+    "CPUUsagePercentage": 46.811535,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:35:23.056464+02:00",
+    "CPUUsagePercentage": 45.112995,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:35:33.0618766+02:00",
+    "CPUUsagePercentage": 46.925972,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:35:43.0748659+02:00",
+    "CPUUsagePercentage": 46.857296,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:35:53.0760909+02:00",
+    "CPUUsagePercentage": 45.665714,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:36:03.0650931+02:00",
+    "CPUUsagePercentage": 46.126617,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:36:13.0584687+02:00",
+    "CPUUsagePercentage": 45.91789,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:36:23.0654236+02:00",
+    "CPUUsagePercentage": 52.543137,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:36:33.0565903+02:00",
+    "CPUUsagePercentage": 46.135815,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:36:43.0776353+02:00",
+    "CPUUsagePercentage": 45.71082,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:36:53.0750074+02:00",
+    "CPUUsagePercentage": 46.957672,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:37:03.0572661+02:00",
+    "CPUUsagePercentage": 46.42704,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:37:13.0543479+02:00",
+    "CPUUsagePercentage": 46.780144,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:37:23.0653976+02:00",
+    "CPUUsagePercentage": 47.345036,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:37:33.0726365+02:00",
+    "CPUUsagePercentage": 46.228317,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:37:43.0597328+02:00",
+    "CPUUsagePercentage": 46.72056,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:37:53.070959+02:00",
+    "CPUUsagePercentage": 48.113564,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:38:03.0735215+02:00",
+    "CPUUsagePercentage": 45.99188,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:38:13.0727287+02:00",
+    "CPUUsagePercentage": 46.715313,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:38:23.0579718+02:00",
+    "CPUUsagePercentage": 45.90962,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:38:33.0570254+02:00",
+    "CPUUsagePercentage": 45.724594,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:38:43.0681345+02:00",
+    "CPUUsagePercentage": 45.96565,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:38:53.0573847+02:00",
+    "CPUUsagePercentage": 47.496483,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:39:03.0605401+02:00",
+    "CPUUsagePercentage": 46.0138,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:39:13.0636596+02:00",
+    "CPUUsagePercentage": 47.540337,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:39:23.0669086+02:00",
+    "CPUUsagePercentage": 46.350006,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  },
+  {
+    "Date": "2022-06-05T13:39:33.0611622+02:00",
+    "CPUUsagePercentage": 47.06323,
+    "workingSet": 29179904,
+    "privateBits": 15454208,
+    "openHandles": 280
+  }
+]
