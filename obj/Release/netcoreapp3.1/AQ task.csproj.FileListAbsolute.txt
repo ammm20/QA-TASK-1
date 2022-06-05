@@ -27,7 +27,6 @@ C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\bin\Release\netcoreapp3.1\runtim
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\bin\Release\netcoreapp3.1\Interop.PlaLibrary.dll
-C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Release\netcoreapp3.1\AQ task.csproj.AssemblyReference.cache
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Release\netcoreapp3.1\Interop.PlaLibrary.dll
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Release\netcoreapp3.1\AQ task.csproj.ResolveComReference.cache
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Release\netcoreapp3.1\AQ task.GeneratedMSBuildEditorConfig.editorconfig

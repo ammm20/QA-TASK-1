@@ -37,4 +37,3 @@ C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Debug\netcoreapp3.1\AQ task.
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Debug\netcoreapp3.1\AQ task.dll
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Debug\netcoreapp3.1\AQ task.pdb
 C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Debug\netcoreapp3.1\AQ task.genruntimeconfig.cache
-C:\Users\ANDRES\Desktop\QA task\AQ task\AQ task\obj\Debug\netcoreapp3.1\AQ task.csproj.AssemblyReference.cache
